@@ -6,8 +6,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-background-image: url("https://github.com/Jimmybillbob0102/Pr0j3ct-St4r/blob/main/videos/glungu.png?raw=true"); 
- background-color: #cccccc;
+  background-color: #cccccc;
   min-height: 100vh;
 }
 
