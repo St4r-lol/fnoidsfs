@@ -208,17 +208,17 @@ footer {
 }
 [data-theme="light"] .topimg {
     height: 540px;
-    background-image: url("/media/lightModeTop.png");
+    background-image: url("media/lightModeTop.png");
 }
 [data-theme="dark"] .topimg {
     height: 549px;
-    background-image: url("/media/darkModeTop.png");
+    background-image: url("media/darkModeTop.png");
 }
 [data-theme="light"] footer {
     height: 554px;
-    background-image: url("/media/lightModeBottom.png");
+    background-image: url("media/lightModeBottom.png");
 }
 [data-theme="dark"] footer {
     height: 588px;
-    background-image: url("/media/darkModeBottom.png");
+    background-image: url("media/darkModeBottom.png");
 }
